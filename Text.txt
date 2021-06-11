@@ -1,0 +1,20 @@
+LIVERPOOL, 99, 85, 33, 13.5, 13.3, 12.1,Pep Ligdners, 0, 0
+MANCHESTER CITY, 81, 102, 35, 14.7, 15.7, 11.6,Brian Kidd, 1, 0
+MANCHESTER UNITED, 66, 66, 36, 13.7, 14.4, 11.2,Mike Phelan, 2, 0
+CHELSEA, 66, 69, 54, 13.0, 15.3, 13.5,Zsolt Low, 3, 0
+LEICESTER, 62, 67, 41, 11.3, 13.8, 10.7,Chris Davies, 4, 0
+TOTTENHAM, 59, 61, 47, 12.6, 14.1, 13.4,Joao Sacramento, 5, 0
+WOLVES, 59, 51, 40, 13.3, 13.6, 12.0,Rui Silva, 6, 0
+ARSENAL, 56, 56, 48, 14.9, 14.1, 10.9,Steve Round, 7, 0
+SHEFFIELD UNITED, 54, 39, 39, 11.9, 12.4, 12.5,Alan Knill, 8, 0
+BURNLEY, 54, 43, 50, 12.3, 10, 12.2,Ian Woan, 9, 0
+SOUTHAMPTON, 52, 51, 60, 13, 12.9, 12.1,Richard Kitzbichler, 10, 0
+EVERTON, 49, 44, 56, 13.3, 13.4, 13.6,Davide Ancelloti, 11, 0
+NEWCASTLE, 44, 38, 58, 13.8, 10.4, 12.8,Steve Agnew, 12, 0
+CRYSTAL PALACE, 43, 31, 50, 13.7, 11.5, 13.2,Ray Lewington, 13, 0
+BRIGHTON, 41, 39, 54, 12.7, 13.1, 11.9,Billy Reid, 14, 0
+WEST HAM, 39, 49, 62, 12.2, 11.5, 12.5,Alan Irvine, 15, 0
+ASTON VILLA, 35, 41, 67, 12, 12, 13.2,John Terry, 16, 0
+LEEDS, 34, 40, 65, 12.7, 11.3, 11.1,Les reed, 17, 0
+WEST BROM, 34, 36, 64, 13, 11.8, 11.4,Sammy Lee, 18, 0
+FULHAM, 21, 26, 75, 13.9, 13.5, 11.7,Stuart Gray, 19, 0
